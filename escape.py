@@ -1,0 +1,1 @@
+print("My Tech Journey:\n\t- Python\n\t- Bash\n\t- SQL\n\t- Django ")
